@@ -1,0 +1,14 @@
+2017-10-11T18:08:55.4646221Z,Updating submodules.,ec0209b3-b1d4-4f86-b352-bb3a6b862706,0
+2017-10-11T18:08:55.5271156Z,Preparing deployment for commit id 'c2d336ae24'.,67b1b36b-d4d6-4bc3-b454-676d779ba033,0
+2017-10-11T18:08:55.7815321Z,Generating deployment script.,f41cadbd-1f11-491c-905b-aac89fb87ac3,0
+	2017-10-11T18:08:55.8284063Z,Using the following command to generate deployment script: 'azure site deploymentscript -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"'.,,0
+	2017-10-11T18:08:56.3014562Z,Generating deployment script for Web Site,,0
+	2017-10-11T18:08:56.3127635Z,Generated deployment script files,,0
+2017-10-11T18:08:56.4065377Z,Running deployment command...,2a218b2d-9e01-47fe-901c-0487c64b4e92,0
+	2017-10-11T18:08:56.4065377Z,Command: "D:\home\site\deployments\tools\deploy.cmd",,0
+	2017-10-11T18:08:56.9690348Z,Handling Basic Web Site deployment.,,0
+	2017-10-11T18:08:57.2659428Z,KuduSync.NET from: 'D:\home\site\repository' to: 'D:\home\site\wwwroot',,0
+	2017-10-11T18:08:57.2985541Z,Copying file: 'Test11.html',,0
+	2017-10-11T18:08:57.2985541Z,Finished successfully.,,0
+2017-10-11T18:08:57.3640529Z,Running post deployment command(s)...,137ded20-5d3f-4e2a-bee4-fa2b314dcc90,0
+2017-10-11T18:08:57.4278320Z,Deployment successful.,d838b094-86db-48a0-83d5-b72331746500,0
